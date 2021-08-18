@@ -1610,7 +1610,7 @@ body.scrolled .header--navbar {
 #backToTop {
     position: fixed;
     right: 30px;
-    bottom: 30px;
+    bottom: 120px;
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     -webkit-transition: opacity .25s ease-in-out;
